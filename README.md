@@ -1,5 +1,4 @@
-### Holas 👋
-### Probando funciones
+### Hola, soy Antonio Badilla, actualmente me encuentro estudiando cursos de Ruby on rails, aumentando cada vez mas mis conocimientos en este mundo TI.
 <!--
 **DarkYusu/DarkYusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
