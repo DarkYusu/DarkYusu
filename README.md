@@ -1,4 +1,4 @@
-<img src="*.gif" align="right">
+
 # Hola, soy Antonio Badilla, 
 ### actualmente me encuentro estudiando cursos de Ruby on rails,
 ### aumentando cada vez mas mis conocimientos en este mundo TI.
