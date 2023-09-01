@@ -11,10 +11,10 @@ o por mi Linkedin <img src="https://github.com/DarkYusu/DarkYusu/assets/11023582
 
 <h1>Algunos de mis trabajos:</h1>
 
-<h3 align="left">Viajes Chile</h3>
-<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" alt="bootstrap" width="300" height="300" align="left"/> </a>
-<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" alt="bootstrap" width="300" height="300" align="left"/> </a>
-<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" alt="bootstrap" width="300" height="300" align="left"/> </a>
+<h3>Viajes Chile</h3>
+<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" width="300" height="300"> </a>
+
+<h2>Grafico de los lenguajes que mas ocupo</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYusu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
