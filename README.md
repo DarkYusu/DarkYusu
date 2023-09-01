@@ -9,9 +9,14 @@ Puedes contactarme por los siguientes canales:</p>
 <p>Por correo: Abadilla2009@gmail.com <br>
 o por mi Linkedin <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/70b32d2b-3f8a-4b6b-997a-f76058cce117" alt="bootstrap" width="40" height="40"/></p>
 
+<h1>Algunos de mis trabajos:</h1>
+
+<h3 align="left">Viajes Chile</h3>
+<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" alt="bootstrap" width="300" height="300" align="left"/> </a>
+<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" alt="bootstrap" width="300" height="300" align="left"/> </a>
+<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" alt="bootstrap" width="300" height="300" align="left"/> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYusu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="left">Lenguajes y Herramientas que utilizo:</h3>
 <p align="left">
