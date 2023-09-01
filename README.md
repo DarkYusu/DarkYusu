@@ -6,7 +6,8 @@ He realizado cursos en Alura Latam, y actualmente en el Centro de formación Inf
 Siempre abierto a oportunidades laborales nuevas.<br>
 Puedes contactarme por los siguientes canales:</p>
 
-<a href="mailto:rafa@gmail.com">Contactar por correo</a>
+<p>Por correo: Abadilla2009@gmail.com <br>
+o por mi Linkedin <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/70b32d2b-3f8a-4b6b-997a-f76058cce117" alt="bootstrap" width="40" height="40"/></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYusu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
