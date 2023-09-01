@@ -1,6 +1,6 @@
-### Hola, soy Antonio Badilla, 
-# actualmente me encuentro estudiando cursos de Ruby on rails,
-# aumentando cada vez mas mis conocimientos en este mundo TI.
+# Hola, soy Antonio Badilla, 
+### actualmente me encuentro estudiando cursos de Ruby on rails,
+### aumentando cada vez mas mis conocimientos en este mundo TI.
 ![rickroll-roll](https://github.com/DarkYusu/DarkYusu/assets/110235824/1cc26c0f-cc4f-46eb-a551-63ce6548a1cc)
 
   
