@@ -9,10 +9,7 @@ Puedes contactarme por los siguientes canales:</p>
 <p>Por correo: Abadilla2009@gmail.com <br>
 o por mi Linkedin <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/70b32d2b-3f8a-4b6b-997a-f76058cce117" alt="bootstrap" width="40" height="40"/></p>
 
-<h1>Algunos de mis trabajos:</h1>
 
-<h3>Viajes Chile</h3>
-<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" width="300" height="300"> </a>
 
 <h2>Grafico de los lenguajes que mas ocupo</h2>
 
@@ -33,3 +30,8 @@ o por mi Linkedin <img src="https://github.com/DarkYusu/DarkYusu/assets/11023582
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
   <br>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+<h1>Algunos de mis trabajos:</h1>
+
+<h3>Viajes Chile</h3>
+<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla" target="_blank" rel="noreferrer"> <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" width="300" height="300"> </a>
