@@ -1,4 +1,4 @@
-<img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/1cc26c0f-cc4f-46eb-a551-63ce6548a1cc" alt="ruby" width="200" height="240" align="right" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=34DC5F&width=387&height=40&lines=Hola%2C+soy+Antonio+Badilla" alt="Typing SVG" /></a>
 <p>Estudiante de Ruby on rails que vive en al sur de Chile.<br>
 Siempre curioso y con ganas de aumentar mis conocimientos en el mundo TI.<br>
