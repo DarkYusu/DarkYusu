@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=34DC5F&width=387&height=40&lines=Hola%2C+soy+Antonio+Badilla" alt="Typing SVG" /></a>
-<p>Estudiante de Ruby on rails que vive en al sur de Chile.<br>
-Siempre curioso y con ganas de aumentar mis conocimientos en el mundo TI.<br>
+<p>Estudiante del mundo TI que vive en al sur de Chile.<br>
+Siempre curioso y con ganas de aumentar mis conocimientos.<br>
 He realizado cursos en Alura Latam, y actualmente en el Centro de formación Inforcap. <br>
 Siempre abierto a oportunidades laborales nuevas.<br></p>
 <h2>Puedes contactarme por los siguientes canales:</h2>
