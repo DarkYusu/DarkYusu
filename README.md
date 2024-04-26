@@ -4,10 +4,6 @@
 Siempre curioso y con ganas de aumentar mis conocimientos.<br>
 He realizado cursos en Alura Latam, y actualmente en el Centro de formación Inforcap. <br>
 Siempre abierto a oportunidades laborales nuevas.<br></p>
-<h2>Puedes contactarme por los siguientes canales:</h2>
-
-<p>Por correo: Abadilla2009@gmail.com <br>
-o por mi Linkedin <img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/70b32d2b-3f8a-4b6b-997a-f76058cce117" alt="bootstrap" width="40" height="40"/></p>
 
 <h2>Grafico de los lenguajes que mas ocupo</h2>
 
