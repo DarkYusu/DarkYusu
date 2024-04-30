@@ -6,7 +6,7 @@ He realizado cursos en Alura Latam, y actualmente en el Centro de formación Inf
 Siempre abierto a oportunidades laborales nuevas.<br></p>
 
 <h2>Grafico de los lenguajes que mas ocupo</h2>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYusu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Lenguajes y Herramientas que utilizo:</h3>
