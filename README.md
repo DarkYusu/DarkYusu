@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=34DC5F&width=387&height=40&lines=Hola%2C+soy+Antonio+Badilla" alt="Typing SVG" /></a>
 <p>Estudiante del mundo TI que vive en al sur de Chile.<br>
 Siempre curioso y con ganas de aumentar mis conocimientos.<br>
-He realizado cursos en Alura Latam, y actualmente en el Centro de formación Inforcap. <br>
+He realizado cursos en Alura Latam, y actualmente en los cursos impartidos por en Desafio LATAM <br>
 Siempre abierto a oportunidades laborales nuevas.<br></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYusu&layout=compact&locate=es)](https://github.com/anuraghazra/github-readme-stats)
