@@ -7,6 +7,7 @@ Siempre abierto a oportunidades laborales nuevas.<br></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYusu&layout=compact&locate=es)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <h3 align="left">Lenguajes y Herramientas que utilizo:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -25,5 +26,7 @@ Siempre abierto a oportunidades laborales nuevas.<br></p>
 
 <h1>Algunos de mis trabajos:</h1>
 
-<h3>Viajes Chile</h3>
-<a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"><img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" width="300" height="300"></a>
+| <h3>Viajes Chile</h3> | <a href="https://darkyusu.github.io/desafio_Viajes-Chile_Antonio-Badilla/" target="_blank" rel="noreferrer"><img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/fb920df7-7ed1-4854-9d11-6437d19cdf40" width="300" height="300"></a> |
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| <h3>Encriptador</h3>                                                              | <a href="https://darkyusu.github.io/Encriptador/" target="_blank" rel="noreferrer"><img src="https://github.com/DarkYusu/DarkYusu/assets/110235824/17332d85-9b49-4f39-9765-87f571995373" width="300" height="150"></a>                                                     |
+
