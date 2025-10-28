@@ -17,69 +17,70 @@
 
 <p align="left">
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/002cc762-fad5-4f84-8232-1ad126fa42ed" alt="Python" width="40" height="40"/>
-  </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
 
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
+<!-- Kotlin -->
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+</a>
 
-  <!-- Ruby -->
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  </a>
+<!-- Ruby -->
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+</a>
 
-  <!-- Ruby on Rails -->
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
-  </a>
+<!-- Ruby on Rails -->
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
+</a>
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
+<!-- Node.js -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+<!-- HTML5 -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+</a>
 
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
+<!-- CSS3 -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</a>
 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+</a>
 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
 
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+<!-- Postman -->
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
 
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
