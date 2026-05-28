@@ -9,7 +9,7 @@
   Abierto a nuevas oportunidades laborales y proyectos colaborativos.<br>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYusu&layout=compact&locale=es&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkYusu)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
